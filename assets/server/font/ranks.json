@@ -1,0 +1,58 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "server:font/admin.png",
+            "ascent": 7,
+            "chars": ["Admin"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/mod.png",
+            "ascent": 7,
+            "chars": ["Mod"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/dev.png",
+            "ascent": 7,
+            "chars": ["Dev"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/build.png",
+            "ascent": 7,
+            "chars": ["Build"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/tester.png",
+            "ascent": 7,
+            "chars": ["Tester"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/exec.png",
+            "ascent": 7,
+            "chars": ["Exec"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/vip.png",
+            "ascent": 7,
+            "chars": ["VIP"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/member.png",
+            "ascent": 7,
+            "chars": ["Member"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/guest.png",
+            "ascent": 7,
+            "chars": ["Guest"]
+        }
+    ]
+}
