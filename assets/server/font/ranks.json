@@ -2,9 +2,15 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "server:font/admin.png",
+            "file": "server:font/head_admin.png",
             "ascent": 7,
             "chars": ["A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/admin.png",
+            "ascent": 7,
+            "chars": ["a"]
         },
         {
             "type": "bitmap",
@@ -46,7 +52,7 @@
             "type": "bitmap",
             "file": "server:font/member.png",
             "ascent": 7,
-            "chars": ["M"]
+            "chars": ["m"]
         },
         {
             "type": "bitmap",
