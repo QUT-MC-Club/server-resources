@@ -4,55 +4,55 @@
             "type": "bitmap",
             "file": "server:font/admin.png",
             "ascent": 7,
-            "chars": ["Admin"]
+            "chars": ["A"]
         },
         {
             "type": "bitmap",
             "file": "server:font/mod.png",
             "ascent": 7,
-            "chars": ["Mod"]
+            "chars": ["M"]
         },
         {
             "type": "bitmap",
             "file": "server:font/dev.png",
             "ascent": 7,
-            "chars": ["Dev"]
+            "chars": ["D"]
         },
         {
             "type": "bitmap",
             "file": "server:font/build.png",
             "ascent": 7,
-            "chars": ["Build"]
+            "chars": ["B"]
         },
         {
             "type": "bitmap",
             "file": "server:font/tester.png",
             "ascent": 7,
-            "chars": ["Tester"]
+            "chars": ["T"]
         },
         {
             "type": "bitmap",
             "file": "server:font/exec.png",
             "ascent": 7,
-            "chars": ["Exec"]
+            "chars": ["E"]
         },
         {
             "type": "bitmap",
             "file": "server:font/vip.png",
             "ascent": 7,
-            "chars": ["VIP"]
+            "chars": ["V"]
         },
         {
             "type": "bitmap",
             "file": "server:font/member.png",
             "ascent": 7,
-            "chars": ["Member"]
+            "chars": ["M"]
         },
         {
             "type": "bitmap",
             "file": "server:font/guest.png",
             "ascent": 7,
-            "chars": ["Guest"]
+            "chars": ["G"]
         }
     ]
 }
