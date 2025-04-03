@@ -1,5 +1,14 @@
 {
     "providers": [
+    	{
+            "file": "server_name:font/logo.png",
+            "chars": [
+                "L"
+            ],
+            "height": 50,
+            "ascent": 35,
+            "type": "bitmap"
+        }
         {
             "type": "bitmap",
             "file": "server:font/minigames.png",
