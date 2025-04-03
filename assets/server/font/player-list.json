@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "server:font/minigames.png",
+            "ascent": 7,
+            "chars": ["M"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/survival.png",
+            "ascent": 7,
+            "chars": ["S"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/skyblock.png",
+            "ascent": 7,
+            "chars": ["s"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/build.png",
+            "ascent": 7,
+            "chars": ["B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/testing.png",
+            "ascent": 7,
+            "chars": ["T"]
+        },
+        {
+            "type": "bitmap",
+            "file": "server:font/development.png",
+            "ascent": 7,
+            "chars": ["D"]
+        },
+    ]
+}
