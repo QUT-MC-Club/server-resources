@@ -3,12 +3,12 @@
     	{
             "file": "server:font/logo.png",
             "chars": [
-                "\ue238"
+                "L"
             ],
             "height": 50,
             "ascent": 35,
             "type": "bitmap"
-        }
+        },
         {
             "type": "bitmap",
             "file": "server:font/minigames.png",
