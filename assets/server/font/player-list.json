@@ -1,7 +1,7 @@
 {
     "providers": [
     	{
-            "file": "server_name:font/logo.png",
+            "file": "server:font/logo.png",
             "chars": [
                 "L"
             ],
